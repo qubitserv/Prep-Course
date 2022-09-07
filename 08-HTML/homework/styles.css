@@ -1,0 +1,18 @@
+h1{
+    color:darkmagenta;
+}
+img{
+   width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 5px solid blue;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+/*.divClass{} va el . cuando se quiere agregar a una clase el estilo y # cuando es a un Id*/
